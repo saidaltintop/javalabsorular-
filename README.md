@@ -1,3 +1,3 @@
 javalabsorular-
 ===============
-labsoruları adlı dosya main dosyası.digerleride içinde kullandıgım class lar
+main adlı dosya main metotunun oldugu dosyadır.digerleride içinde kullandıgım class lar
